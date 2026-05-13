@@ -1,0 +1,30 @@
+/* Descendant Selector */
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session4</title>
+    <style>
+      ol {
+        color: blue;
+      }
+      ul {
+        color: brown;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Descendant Selector</h1>
+    <ol>
+      <li>Red</li>
+      <li>Green</li>
+      <li>Yellow</li>
+    </ol>
+    <ul>
+      <li>Red</li>
+      <li>Green</li>
+      <li>Yellow</li>
+    </ul>
+  </body>
+</html>
+
