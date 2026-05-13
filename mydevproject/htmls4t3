@@ -1,0 +1,27 @@
+/* Inhertitance */
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session4</title>
+    <style>
+      .parent {
+        color: blueviolet;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, saepe
+      asperiores suscipit molestias earum vitae vel voluptates nisi iste ex
+      distinctio!
+      <div class="child">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, saepe
+        asperiores suscipit molestias earum vitae vel voluptates nisi iste ex
+        distinctio!
+      </div>
+    </div>
+  </body>
+</html>
+
