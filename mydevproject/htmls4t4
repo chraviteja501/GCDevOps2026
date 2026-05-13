@@ -1,0 +1,21 @@
+/* Colours task */
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session4</title>
+    <style>
+      p {
+        color: rgb(54, 117, 104);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Colors</h1>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, saepe
+      asperiores suscipit molestias earum vitae vel voluptates nisi iste ex
+      distinctio!
+    </p>
+  </body>
+</html>
+
