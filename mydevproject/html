@@ -26,28 +26,26 @@
       .team-member p {
         opacity: 0.8;
       }
-      #anna {
+      #Anna {
         background-color: darkcyan;
         color: beige;
       }
-      #anna h2, #anna h3 {
+      #Anna h2, #Anna h3 {
         color: honeydew;
       }
-      #harry {
+      #Harry {
         background-color: cornsilk;
       }
-      #harry h2, #harry h3 {
+      #Harry h2, #Harry h3 {
         color: darkslategray;
       }
-      #sofia {
+      #Sofia {
         background-color: dodgerblue;
         color: lightcyan;
       }
-      #sofia h2, #sofia h3 {
+      #Sofia h2, #Sofia h3 {
         color: navy;
       }
-
-
 
 
     </style>
