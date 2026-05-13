@@ -1,0 +1,31 @@
+/* Selector Specificity */
+!DOCTYPE html>
+<html>
+  <head>
+    <title>Session4</title>
+    <style>
+      p {
+        color: red;
+      }
+      .demo {
+        color: blue;
+      }
+      /*Cascading of Css*/
+      /*.demo {
+        color: orange;
+      }*/
+      #one {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Selector Specificity</h1>
+    <h2>Inline > ID > Class > Element</h2>
+    <p class="demo" id="one" style="color: brown">
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio, saepe
+      asperiores suscipit molestias earum vitae vel voluptates nisi iste ex
+      distinctio!
+    </p>
+  </body>
+</html>
