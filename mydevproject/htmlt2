@@ -1,1 +1,33 @@
 /* Session-3 task-2 */
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session3</title>
+  </head>
+
+  <h1>Div tag</h1>
+  <div style="background-color: aqua">
+    <h3>frontend</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JS</li>
+    </ul>
+  </div>
+
+  <div style="color: brown">
+    <h3>Sports car</h3>
+    <ul>
+      <li>Lambo</li>
+      <li>Bugati</li>
+      <li>Porsche</li>
+    </ul>
+  </div>
+  <p>
+    We are going to highlighta particlur part of test as this an example of span
+    tag. <span style="color: blue">Today is friday</span> and we are excited!
+  </p>
+  <body></body>
+</html>
+
