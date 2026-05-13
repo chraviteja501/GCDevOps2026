@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session3</title>
+    <style>
+      h2 {
+        color: orange;
+      }
+      .demo{
+        background-color: lightcoral;
+      }
+      #one
+      {
+        color: blueviolet;
+        background-color: azure;
+      }
+      a:hover{
+        background-color: lightgreen;
+      }
+      a:active{
+        color: blueviolet;
+      }
+      a:visited{
+        color: brown;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="one">Selectors</h1>
+    <h2>Element Selector - picks the elements and its occurence</h1>
+    <p class="demo">We are Currently lerning about Selectors</p>
+    <h2>Class Selector</h2>
+    <h3 class="demo">Id Selector</h3>
+    <a href="https://www.crio.do/">Crio Website</a>
+  </body>
+</html>
